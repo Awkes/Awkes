@@ -10,7 +10,7 @@
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="React" height="50">
 </p>
 
-<hr>
+<h2></h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

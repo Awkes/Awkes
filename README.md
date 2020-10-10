@@ -6,6 +6,7 @@
 <h2 align="center">
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50">
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="React" height="50">
+  <img src="https://raw.githubusercontent.com/sveltejs/branding/c4dfca6743572087a6aef0e109ffe3d95596e86a/svelte-logo.svg" alt="Svelte" height="50">
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML" height="50">
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="CSS" height="50">
 </h2>

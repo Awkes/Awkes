@@ -3,14 +3,12 @@
   <h1 align="center">Andreas Åkerlöf</h1>
 </p>
 
-<p align="center">
+<h2 align="center">
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50">
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="HTML" height="50">
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="CSS" height="50">
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="React" height="50">
-</p>
-
-<h2></h2>
+</h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

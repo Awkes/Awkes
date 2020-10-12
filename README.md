@@ -19,6 +19,6 @@
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awkes&hide=php&langs_count=5" alt="Most used languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awkes&hide=php&langs_count=6" alt="Most used languages">
   </a>
 </p>
